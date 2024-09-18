@@ -1,0 +1,297 @@
+{
+    "monday": {
+        "muscle": "Chest",
+        "regular": [
+            {
+                "exercise": "Flat Bench Press",
+                "reps": "8-10",
+                "sets": 4
+            },
+            {
+                "exercise": "Incline Dumbbell Press",
+                "reps": "10-12",
+                "sets": 4
+            },
+            {
+                "exercise": "Chest Fly Machine or Cable Crossovers",
+                "reps": "12-15",
+                "sets": 3
+            },
+            {
+                "exercise": "Decline Push-ups",
+                "reps": "12-15",
+                "sets": 3
+            }
+        ],
+        "backup": [
+            {
+                "exercise": "Push-ups",
+                "reps": "20-25",
+                "sets": 4
+            },
+            {
+                "exercise": "Incline Push-ups",
+                "reps": "20",
+                "sets": 4
+            },
+            {
+                "exercise": "Diamond Push-ups",
+                "reps": "12-15",
+                "sets": 3
+            },
+            {
+                "exercise": "Chest Dips",
+                "reps": "12",
+                "sets": 3
+            }
+        ]
+    },
+    "tuesday": {
+        "muscle": "Back",
+        "regular": [
+            {
+                "exercise": "Deadlifts",
+                "reps": "6-8",
+                "sets": 4
+            },
+            {
+                "exercise": "Lat Pulldown",
+                "reps": "10-12",
+                "sets": 4
+            },
+            {
+                "exercise": "Seated Row Machine",
+                "reps": "10-12",
+                "sets": 3
+            },
+            {
+                "exercise": "Barbell Rows",
+                "reps": "8-10",
+                "sets": 3
+            }
+        ],
+        "backup": [
+            {
+                "exercise": "Pull-ups",
+                "reps": "max",
+                "sets": 4
+            },
+            {
+                "exercise": "Inverted Rows",
+                "reps": "10-12",
+                "sets": 4
+            },
+            {
+                "exercise": "Backpack Bent-over Rows",
+                "reps": "12",
+                "sets": 3
+            },
+            {
+                "exercise": "Supermans",
+                "reps": "15-20",
+                "sets": 3
+            }
+        ]
+    },
+    "wednesday": {
+        "muscle": "Legs",
+        "regular": [
+            {
+                "exercise": "Squats",
+                "reps": "8-10",
+                "sets": 4
+            },
+            {
+                "exercise": "Leg Press",
+                "reps": "10-12",
+                "sets": 4
+            },
+            {
+                "exercise": "Lunges",
+                "reps": "10 per leg",
+                "sets": 3
+            },
+            {
+                "exercise": "Leg Curls",
+                "reps": "12",
+                "sets": 3
+            }
+        ],
+        "backup": [
+            {
+                "exercise": "Air Squats",
+                "reps": "20",
+                "sets": 4
+            },
+            {
+                "exercise": "Jump Squats",
+                "reps": "15",
+                "sets": 3
+            },
+            {
+                "exercise": "Walking Lunges",
+                "reps": "12-15 per leg",
+                "sets": 3
+            },
+            {
+                "exercise": "Glute Bridges",
+                "reps": "20",
+                "sets": 3
+            }
+        ]
+    },
+    "thursday": {
+        "muscle": "Shoulders",
+        "regular": [
+            {
+                "exercise": "Overhead Press",
+                "reps": "8-10",
+                "sets": 4
+            },
+            {
+                "exercise": "Lateral Raises",
+                "reps": "12-15",
+                "sets": 4
+            },
+            {
+                "exercise": "Front Raises",
+                "reps": "10-12",
+                "sets": 3
+            },
+            {
+                "exercise": "Face Pulls",
+                "reps": "12-15",
+                "sets": 3
+            }
+        ],
+        "backup": [
+            {
+                "exercise": "Pike Push-ups",
+                "reps": "12-15",
+                "sets": 4
+            },
+            {
+                "exercise": "Lateral Raises",
+                "reps": "15",
+                "sets": 4
+            },
+            {
+                "exercise": "Front Raises",
+                "reps": "15",
+                "sets": 3
+            },
+            {
+                "exercise": "Wall Handstand Holds",
+                "time": "20-30 seconds",
+                "sets": 3
+            }
+        ]
+    },
+    "friday": {
+        "muscle": "Arms",
+        "regular": [
+            {
+                "exercise": "Barbell Curls",
+                "reps": "8-10",
+                "sets": 4
+            },
+            {
+                "exercise": "Hammer Curls",
+                "reps": "10-12",
+                "sets": 4
+            },
+            {
+                "exercise": "Tricep Dips",
+                "reps": "10-12",
+                "sets": 4
+            },
+            {
+                "exercise": "Overhead Tricep Extensions",
+                "reps": "12-15",
+                "sets": 3
+            }
+        ],
+        "backup": [
+            {
+                "exercise": "Close-grip Push-ups",
+                "reps": "15",
+                "sets": 4
+            },
+            {
+                "exercise": "Chair Dips",
+                "reps": "12-15",
+                "sets": 4
+            },
+            {
+                "exercise": "Backpack Curls",
+                "reps": "12-15",
+                "sets": 4
+            },
+            {
+                "exercise": "Backpack Overhead Tricep Extensions",
+                "reps": "12",
+                "sets": 3
+            }
+        ]
+    },
+    "saturday": {
+        "muscle": "Core & Abs",
+        "regular": [
+            {
+                "exercise": "Hanging Leg Raises",
+                "reps": "12",
+                "sets": 4
+            },
+            {
+                "exercise": "Cable Crunches",
+                "reps": "15",
+                "sets": 4
+            },
+            {
+                "exercise": "Russian Twists",
+                "reps": "20",
+                "sets": 3
+            },
+            {
+                "exercise": "Plank",
+                "time": "1 minute",
+                "sets": 3
+            }
+        ],
+        "backup": [
+            {
+                "exercise": "Bicycle Crunches",
+                "reps": "15-20 per side",
+                "sets": 4
+            },
+            {
+                "exercise": "Leg Raises",
+                "reps": "15",
+                "sets": 4
+            },
+            {
+                "exercise": "Russian Twists",
+                "reps": "20",
+                "sets": 3
+            },
+            {
+                "exercise": "Plank",
+                "time": "1 minute",
+                "sets": 3
+            }
+        ]
+    },
+    "sunday": {
+        "muscle": "Rest Day",
+        "regular": [
+            {
+                "exercise": "Rest Day :)",
+                "reps": 0,
+                "sets": 0
+            }
+        ],
+        "backup": [
+            
+        ]
+    }
+}
